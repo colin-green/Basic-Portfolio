@@ -1,0 +1,18 @@
+div {
+    position: absolute;
+    height: 500px;
+    width: 900px;
+    margin: -250px 0 0 -450px;
+    top: 50%;
+    left: 50%;
+    border: 1px solid #dddddd;
+    background-color: #ffffff;
+}
+
+h2 {
+    border-bottom: 1px solid black;
+}
+
+p {
+    color: #777777;
+}
