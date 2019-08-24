@@ -1,0 +1,26 @@
+.myheader {
+    background-color: #ffffff;
+}
+
+.mymain {
+    width: 960px;
+}
+
+img {
+    float: left;
+}
+
+footer {
+    background-color: #666666;
+    color: #ffffff;
+}
+
+#myname {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#aboutme {
+    color: #4aaaa5;
+}
