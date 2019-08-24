@@ -1,18 +1,45 @@
+body {
+    background-image: url(../images/sun-pattern.png)
+}
+
+header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #ffffff;
+    border-bottom: 1px solid #cccccc;
+}
+
+h1 {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 10px;
+}
+
+img {
+    float: left;
+    margin: 0 10px 10px 10px;
+}
+
 div {
-    position: absolute;
-    height: 500px;
-    width: 900px;
-    margin: -250px 0 0 -450px;
-    top: 50%;
-    left: 50%;
+    width: 960px;
     border: 1px solid #dddddd;
     background-color: #ffffff;
 }
 
 h2 {
     border-bottom: 1px solid black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 p {
     color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 150%;
+}
+
+footer {
+    background-color: #666666;
+    text-align: center;
+    padding-top: 20px;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
 }
